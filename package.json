@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-crypto-feeds",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Crypto Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-799f2f23ca8a733921060f3d272cc7fa1c9a97651de34e59566556cb72905a74",
-    "sourceCommit": "b0a4b8e2f3f5b3a4c3f9f2c9a73f91b20d32ce11"
+    "sourceHash": "v1-ae88bde7483c8095f3b25c995b988cc0a66dbdd424990b9ba2a70487cf2abd4d",
+    "sourceCommit": "f1ef7a2f6b9cb1b8da1374ec2fcb28c661582b35"
   }
 }
