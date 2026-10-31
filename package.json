@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-crypto-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Crypto Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "crypto-feeds",
     "gatewaySlug": "crypto-feeds",
-    "sourceHash": "v1-8b8fae780712fbb0c5a7b4deb14ec3c7e6e5bc5c861e496c32ef989a474bdb33",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-ea93c761be104dfa7faf71819fdc0cc48b93509eff06956ded82873c97d4d708",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
